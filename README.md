@@ -1,30 +1,27 @@
 <!--
     Hey there, I'm Shivansh Mishra!
     Glad you stopped by my GitHub profile 👋
-    Feel free to explore, learn, and get inspired.
-
-    If you like my work, consider connecting with me on LinkedIn 🙂
 -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=58A6FF&width=650&lines=Hello%2C+it's+Shivansh+Mishra;Software+Engineering+Student;600%2B+LeetCode+Problems+Solved;Aspiring+SDE+%7C+FAANG+Focused" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=58A6FF&width=650&lines=Hello%2C+it's+Shivansh+Mishra;Software+Engineering+Student;700%2B+LeetCode+Problems+Solved;Aspiring+SDE+%7C+FAANG+Focused" alt="Typing SVG" />
 </a>
 
 <!-- Terminal style intro -->
 <div>
-  <img src="https://readme-terminal.vercel.app/api?font=Fira+Code&size=14&duration=3000&color=58A6FF&background=0D1117&width=800&lines=%3E+Student+%40+PSIT+Kanpur;%3E+Strong+in+DSA+%26+CS+Fundamentals;%3E+Building+Scalable+Full-Stack+%26+ML+Projects;%3E+Target%3A+Top+Software+Internships+2026" />
+  <img src="https://readme-terminal.vercel.app/api?font=Fira+Code&size=14&duration=3000&color=58A6FF&background=0D1117&width=800&lines=%3E+Student+%40+PSIT+Kanpur;%3E+Strong+in+DSA+%26+CS+Fundamentals;%3E+Building+AI+%2B+Full-Stack+Systems;%3E+Target%3A+Top+Software+Internships+2026" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 🎓 B.Tech CSE student (2023–2027) at **Pranveer Singh Institute of Technology, Kanpur**  
-💡 Strong foundations in **Data Structures, Algorithms & Computer Science fundamentals**  
-🧠 Solved **600+ problems on LeetCode** and **1000+ problems overall in C++**  
-🚀 Passionate about building **scalable systems**, **full-stack applications**, and **ML-driven solutions**  
-🎯 Currently preparing for **top-tier software engineering internships (FAANG-level)**
+💡 Strong foundation in **Data Structures, Algorithms & Core CS subjects**  
+🧠 Solved **700+ problems on LeetCode** and **1000+ problems overall in C++**  
+🚀 Passionate about building **AI-powered systems**, **scalable backend architectures**, and **full-stack applications**  
+🎯 Targeting **top-tier software engineering internships (FAANG-level)**  
 
 ---
 
@@ -53,36 +50,40 @@
 
 ## 🚀 Featured Projects
 
+### 🧠 AI Notes Generator SaaS (NoteWeave)  
+**Tech Stack:** MERN, Python, Redis, BullMQ, RAG, OpenAI APIs  
+- Built an AI-powered notes platform using **Retrieval-Augmented Generation (RAG)** for context-aware content generation  
+- Designed **asynchronous job processing** using BullMQ and Redis for scalable AI task execution  
+- Implemented **Spaced Repetition (SM-2 algorithm)** to enhance learning and retention  
+- Developed a **scalable backend architecture** with vector-based retrieval and knowledge graph concepts  
+- Optimized system performance by decoupling AI processing from user requests  
+
+---
+
+### 💻 AI-Powered Code Editor (VibeCode Editor)  
+**Tech Stack:** Next.js, TypeScript, React.js, Node.js, Prisma, Tailwind CSS  
+- Built a full-stack AI-powered browser-based code editor supporting frameworks like React, Next.js, and Express  
+- Integrated **AI-based code generation and completion** using modular API architecture  
+- Developed a dynamic dashboard with **CRUD operations** to manage coding environments  
+- Implemented secure server-side logic and optimized APIs for performance  
+- Ensured **type safety and production reliability** using strict TypeScript practices  
+
+---
+
 ### 🛰️ Satellite Collision Detection System  
 **Tech Stack:** Python, NumPy, Pandas, TensorFlow  
-- Designed a satellite collision prediction system using orbital TLE data  
+- Designed a satellite collision prediction system using orbital **TLE data and numerical simulations**  
 - Built preprocessing pipelines and trajectory simulations for close-approach detection  
-- Improved prediction accuracy using machine learning models  
-- Focused on scalable data handling and real-time analytics  
-
----
-
-### 🏥 Telemedicine App for Nabha  
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
-- Developed a full-stack telemedicine platform with RESTful APIs  
-- Optimized backend performance for low-bandwidth rural environments  
-- Enabled consultations, prescriptions, and secure data handling  
-
----
-
-### 📺 YouView – Full-Stack YouTube Clone  
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
-- Built a video-sharing platform with authentication, uploads, comments & likes  
-- Designed scalable backend APIs and optimized database queries  
-- Applied system design principles for modular architecture  
+- Improved prediction accuracy using machine learning models and evaluation metrics  
+- Focused on scalable data processing and real-time analytical workflows  
 
 ---
 
 ## 🏆 Achievements
-- ✅ **600+ DSA problems solved on LeetCode**
+- ✅ **700+ DSA problems solved on LeetCode**
 - ⭐ **5-Star Problem Solving badge on HackerRank**
 - 💻 **1000+ coding problems solved in C++**
-- 🏅 Cleared **Smart India Hackathon (Internal Round)**
+- 🏅 Cleared **Smart India Hackathon (Internal Round)**  
 
 ---
 
@@ -122,5 +123,3 @@
 ---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer" alt="footer"/>
-
-<!-- Thanks for visiting! -->
