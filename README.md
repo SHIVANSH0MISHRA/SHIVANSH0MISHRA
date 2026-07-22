@@ -6,13 +6,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=58A6FF&width=650&lines=Hello%2C+it's+Shivansh+Mishra;Software+Engineering+Student;700%2B+LeetCode+Problems+Solved;Aspiring+SDE+%7C+FAANG+Focused" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=58A6FF&width=650&lines=Hello%2C+it's+Shivansh+Mishra;Software+Engineering+Student;900%2B+LeetCode+Problems+Solved;Aspiring+SDE+%7C+FAANG+Focused" alt="Typing SVG" />
 </a>
 
-<!-- Terminal style intro -->
-<div>
-  <img src="https://readme-terminal.vercel.app/api?font=Fira+Code&size=14&duration=3000&color=58A6FF&background=0D1117&width=800&lines=%3E+Student+%40+PSIT+Kanpur;%3E+Strong+in+DSA+%26+CS+Fundamentals;%3E+Building+AI+%2B+Full-Stack+Systems;%3E+Target%3A+Top+Software+Internships+2026" />
-</div>
+<img width="1983" height="793" alt="port" src="https://github.com/user-attachments/assets/dc1b1a1b-4545-4a4d-ae33-86bae3033fc5" />
+
+
+---
+
+
 
 ---
 
