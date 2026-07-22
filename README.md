@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=58A6FF&width=650&lines=Hello%2C+it's+Shivansh+Mishra;Software+Engineering+Student;900%2B+LeetCode+Problems+Solved;Aspiring+SDE+%7C+FAANG+Focused" alt="Typing SVG" />
 </a>
 
-<img width="1983" height="793" alt="port" src="https://github.com/user-attachments/assets/dc1b1a1b-4545-4a4d-ae33-86bae3033fc5" />
+<!-- <img width="1983" height="793" alt="port" src="https://github.com/user-attachments/assets/dc1b1a1b-4545-4a4d-ae33-86bae3033fc5" /> -->
 
 
 ---
